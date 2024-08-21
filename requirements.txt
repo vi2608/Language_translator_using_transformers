@@ -1,0 +1,26 @@
+transformers
+transformers[sentencepiece]
+tensorflow
+sacrebleu
+datasets
+evaluate
+matplotlib==3.5.3
+numpy
+pandas
+nltk
+regex
+from-root
+tf-keras
+scikit-learn
+pandas
+google-cloud-storage
+-e .
+dill==0.3.5.1
+fastapi==0.78.0
+uvicorn==0.18.3
+Jinja2==3.1.2
+tqdm==4.64.1
+python-multipart==0.0.5
+scipy
+certifi
+starlette
